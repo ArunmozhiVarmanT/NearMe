@@ -163,6 +163,9 @@ gandhinagar.html
 
 
 ## OUTPUT
+![Uploading map.png…]()
+![Uploading dharmapuri.png…]()
+
 
 
 
