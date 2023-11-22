@@ -163,8 +163,16 @@ gandhinagar.html
 
 
 ## OUTPUT
-![Uploading map.png…]()
-![Uploading dharmapuri.png…]()
+![map](https://github.com/ArunmozhiVarmanT/NearMe/assets/144870523/39380dd3-7275-4394-8967-d4428456f9ae)
+![dharmapuri](https://github.com/ArunmozhiVarmanT/NearMe/assets/144870523/a49c315a-f18d-4e0c-a60c-ac66abdd316a)
+![chinnathai colony](https://github.com/ArunmozhiVarmanT/NearMe/assets/144870523/f5adc0d8-4666-4641-bc8c-69e24bceb4cd)
+![gandhinagar](https://github.com/ArunmozhiVarmanT/NearMe/assets/144870523/04dbece8-5597-4a1f-bbbd-5c4c40b302ca)
+![kumarasamypettai](https://github.com/ArunmozhiVarmanT/NearMe/assets/144870523/83d40b93-a5c5-4764-86d3-49bf30c1574d)
+![vellegoundanpalayam](https://github.com/ArunmozhiVarmanT/NearMe/assets/144870523/39645b01-84c9-441a-99ba-56793df14c26)
+
+
+
+
 
 
 
